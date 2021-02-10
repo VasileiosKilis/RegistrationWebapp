@@ -123,3 +123,12 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 
 !/RegistrationWebapp.iml
+*.iml
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
