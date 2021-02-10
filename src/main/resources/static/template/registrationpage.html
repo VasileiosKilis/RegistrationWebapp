@@ -1,0 +1,73 @@
+<div class="panel-body ">
+    <div class="container">
+        <form class="form-horizontal" name="myForm"
+              ng-submit="submitUserForm()">
+
+
+            <div class="row">
+                <div class="form-group col-md-12">
+                    <label class="col-md-2 control-lable" for="uname">Name</label>
+                    <div class="col-md-7">
+                        <input class="form-control input-sm" id="uname" ng-model="user.name"
+                               placeholder="Enter user name" type="text"/>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="form-group col-md-12">
+                    <label class="col-md-2 control-lable" for="surname">Surname</label>
+                    <div class="col-md-7">
+                        <input class="form-control input-sm" id="surname" ng-model="user.surname"
+                               placeholder="Enter your surname" type="text"/>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="form-group col-md-12">
+                    <label class="col-md-2 control-lable" for="gender">Gender</label>
+                    <div class="col-md-7">
+                        <input class="form-control input-sm" id="gender" ng-model="user.gender"
+                               placeholder="Enter your gender" type="text"/>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="form-group col-md-12">
+                    <label class="col-md-2 control-lable" for="date">Date Of Birth</label>
+                    <div class="col-md-7">
+                        <input class="form-control input-sm" id="date" ng-model="user.date"
+                               placeholder="Enter your date of birth form yyyy-mm-dd" type="text"/>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="form-group col-md-12">
+                    <label class="col-md-2 control-lable" for="homeAddress">Address</label>
+                    <div class="col-md-7">
+                        <input class="form-control input-sm" id="homeAddress" ng-model="user.homeAddress"
+                               placeholder="Enter User Address." type="text"/>
+                    </div>
+                </div>
+            </div>
+            </br>
+
+            <div class="row">
+                <div class="form-actions floatRight">
+                    <input class="btn btn-primary btn-sm" type="submit"
+                           value="Register User">
+                    <button class="btn btn-warning btn-sm" ng-click="resetForm()"
+                            type="button">Reset Form
+                    </button>
+                </div>
+            </div>
+        </form>
+    </div>
+</div>
+</div>
+</div>
