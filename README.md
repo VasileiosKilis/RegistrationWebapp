@@ -1,3 +1,11 @@
 # RegistrationWebapp
-This spring application registers users to a database,it can also edit or delete
-them. I used AngularJS for the frontend, java and mySQL for the backend.
+This spring application registers, edits or deletes users from a database. 
+I used AngularJS for the frontend, java and mySQL for the backend.
+The first step was to create a mySQL database. We did not create any tables 
+on the server all the tables will be created automatically,but we will need
+the server url, and we created a username and a password for the server.
+You should create the mySQL server and write this information in the resource
+folder,at the application.properties file.
+
+
+ 
