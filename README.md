@@ -15,5 +15,6 @@ The RESTfull controller exists inside the rest package and contains all
 the methods for creating,deleting etc users in the database.
 <br />
 Finally for the frontend. This is a single-page application. We used 
-ng-view to display everything in our index page.
+ng-view to display everything in our index page. Bootstrap to make it look pretty.
+JavaScript for the app controllers.
  
