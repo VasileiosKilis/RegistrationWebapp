@@ -2,8 +2,8 @@
 This spring application registers, edits or deletes users from a database. 
 I used AngularJS for the frontend, java and mySQL for the backend.
 <br />
-![alt text](https://drive.google.com/file/d/1pTWJnZpvTCAkIqpxyhDNCRCcBnAu8jXP/view)
-![alt text](https://drive.google.com/file/d/1pTWJnZpvTCAkIqpxyhDNCRCcBnAu8jXP/view?usp=sharing)
+<img width="1431" alt="Screenshot 2020-12-24 at 12 11 58" src="https://user-images.githubusercontent.com/54688992/107663324-27d94c80-6c83-11eb-9446-1679f3ed4d50.png">
+<img width="1431" alt="Screenshot 2020-12-24 at 12 11 17" src="https://user-images.githubusercontent.com/54688992/107663367-34f63b80-6c83-11eb-87fc-097c6e24c3f7.png">
 <br/>
 The first step was to create a mySQL database. We did not create any tables 
 on the server all the tables will be created automatically,but we will need
