@@ -12,7 +12,7 @@ You should create the mySQL server and write this information in the resource
 folder,at the application.properties file.
 <br />
 The RESTfull controller exists inside the rest package and contains all
-the methods for creating,deleting etc users in the database.
+the methods for creating,deleting and editing users in the database.
 <br />
 Finally for the frontend. This is a single-page application. We used 
 ng-view to display everything in our index page. Bootstrap to make it look pretty.
