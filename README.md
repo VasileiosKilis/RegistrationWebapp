@@ -17,4 +17,5 @@ the methods for creating,deleting and editing users in the database.
 Finally for the frontend. This is a single-page application. We used 
 ng-view to display everything in our index page. Bootstrap to make it look pretty.
 JavaScript for the app controllers.
+<img width="620" alt="Screenshot 2021-03-23 at 23 12 29" src="https://user-images.githubusercontent.com/54688992/112219180-90b9ca00-8c1c-11eb-830d-21fb7a2d2f3e.png">
  
